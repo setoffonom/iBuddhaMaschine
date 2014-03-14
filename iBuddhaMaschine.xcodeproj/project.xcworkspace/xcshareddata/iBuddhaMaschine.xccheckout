@@ -5,46 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>FCB0D4EE-78C3-4524-978C-063C640D0D2E</string>
+	<string>49ACDD25-022F-44A9-BB21-90877FE640EF</string>
 	<key>IDESourceControlProjectName</key>
 	<string>iBuddhaMaschine</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>3D5A38E0-708D-440E-BFC4-AB3EBBE41AF1</key>
-		<string>ssh://github.com/playra/iBuddhaMaschine.git</string>
-		<key>8B0B5749-20E3-4161-8485-9BEC8DDD87FC</key>
-		<string>https://github.com/playra/iBuddhaMaschine.git</string>
+		<key>489CA97F-D3C8-4C89-97CB-B022AE58A0BD</key>
+		<string>https://github.com/setoffonom/iBuddhaMaschine.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>iBuddhaMaschine.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>3D5A38E0-708D-440E-BFC4-AB3EBBE41AF1</key>
+		<key>489CA97F-D3C8-4C89-97CB-B022AE58A0BD</key>
 		<string>../..</string>
-		<key>8B0B5749-20E3-4161-8485-9BEC8DDD87FC</key>
-		<string>../../iBuddhaMaschine</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://github.com/playra/iBuddhaMaschine.git</string>
+	<string>https://github.com/setoffonom/iBuddhaMaschine.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>3D5A38E0-708D-440E-BFC4-AB3EBBE41AF1</string>
+	<string>489CA97F-D3C8-4C89-97CB-B022AE58A0BD</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>3D5A38E0-708D-440E-BFC4-AB3EBBE41AF1</string>
-			<key>IDESourceControlWCCName</key>
-			<string>iBuddhaMaschine</string>
-		</dict>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>8B0B5749-20E3-4161-8485-9BEC8DDD87FC</string>
+			<string>489CA97F-D3C8-4C89-97CB-B022AE58A0BD</string>
 			<key>IDESourceControlWCCName</key>
 			<string>iBuddhaMaschine</string>
 		</dict>
