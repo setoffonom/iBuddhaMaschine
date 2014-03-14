@@ -5,27 +5,46 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>415D6F12-1ACE-4A8A-AB68-F2A405AEDC35</string>
+	<string>FCB0D4EE-78C3-4524-978C-063C640D0D2E</string>
 	<key>IDESourceControlProjectName</key>
 	<string>iBuddhaMaschine</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3D5A38E0-708D-440E-BFC4-AB3EBBE41AF1</key>
+		<string>ssh://github.com/playra/iBuddhaMaschine.git</string>
+		<key>8B0B5749-20E3-4161-8485-9BEC8DDD87FC</key>
+		<string>https://github.com/playra/iBuddhaMaschine.git</string>
+	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>iBuddhaMaschine.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>45E3C50B-680A-46C4-8832-FCD16959B882</key>
+		<key>3D5A38E0-708D-440E-BFC4-AB3EBBE41AF1</key>
 		<string>../..</string>
+		<key>8B0B5749-20E3-4161-8485-9BEC8DDD87FC</key>
+		<string>../../iBuddhaMaschine</string>
 	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/playra/iBuddhaMaschine.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>45E3C50B-680A-46C4-8832-FCD16959B882</string>
+	<string>3D5A38E0-708D-440E-BFC4-AB3EBBE41AF1</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>45E3C50B-680A-46C4-8832-FCD16959B882</string>
+			<string>3D5A38E0-708D-440E-BFC4-AB3EBBE41AF1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iBuddhaMaschine</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8B0B5749-20E3-4161-8485-9BEC8DDD87FC</string>
 			<key>IDESourceControlWCCName</key>
 			<string>iBuddhaMaschine</string>
 		</dict>
